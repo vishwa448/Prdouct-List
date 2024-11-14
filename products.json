@@ -1,0 +1,40 @@
+[
+    {
+        "id": "1",
+        "name": "Morgan Sleeveless Buckle Dress",
+        "description": "Morgan sleeveless buckle belt detail mini blazer dress in black.",
+        "price": 62.50,
+        "originalPrice": 78.00,
+        "discount": "19%",
+        "images": [
+            "images/product1-1.png",
+            "images/product1-2.png",
+            "images/product1-3.png"
+        ],
+        "additionalInfo": {
+            "category": "Dress",
+            "stock": "In Stock",
+            "color": "Black",
+            "likes": 211
+        }
+    },
+    {
+        "id": "2",
+        "name": "Elegant Red Dress",
+        "description": "A beautiful red dress perfect for evening occasions.",
+        "price": 85.00,
+        "originalPrice": 100.00,
+        "discount": "15%",
+        "images": [
+            "images/product2-1.png",
+            "images/product2-2.png",
+            "images/product2-3.png"
+        ],
+        "additionalInfo": {
+            "category": "Dress",
+            "stock": "In Stock",
+            "color": "Red",
+            "likes": 150
+        }
+    }
+]
