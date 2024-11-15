@@ -32,7 +32,7 @@ function renderProducts(products) {
         const productDiv = document.createElement("div");
         productDiv.classList.add("product-item");
         productDiv.setAttribute("role", "listitem");
-
+hhhh
         productDiv.innerHTML = `
             <img src="${product.images[0]}" alt="${product.name} Image" class="product-image">
             <div class="product-info">
